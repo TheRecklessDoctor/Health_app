@@ -5,7 +5,7 @@ This is an app for the google solutions challenge. We chose the good health prob
 to contribute to a solution by streamlining the process of diagnosing a patients sickness based on his/her prior illnesses.
 
 team members:
-Dayan Perera
-Anish Sura
-Divya Reshmi
+Dayan Perera,
+Anish Sura,
+Divya Reshmi,
 Sin Qi
