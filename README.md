@@ -1,11 +1,16 @@
-# Health_app
-health passport app
+# health_app
 
-This is an app for the google solutions challenge. We chose the good health problem in the problem list and this app attempts
-to contribute to a solution by streamlining the process of diagnosing a patients sickness based on his/her prior illnesses.
+A new Flutter application.
 
-team members:
-Dayan Perera,
-Anish Sura,
-Divya Reshmi,
-Sin Qi
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
