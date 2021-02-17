@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802407155958",
+    "project_id": "health-passport-app-1dbbd",
+    "storage_bucket": "health-passport-app-1dbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802407155958:android:dd0e69cb3b8a91949d44d7",
+        "android_client_info": {
+          "package_name": "health.health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802407155958-1kbnrcniq8197j7e68afg09mpeqp1s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbiPD9lYxabwga-YxFi4i4Y8mZGrZ2Aro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802407155958-1kbnrcniq8197j7e68afg09mpeqp1s63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
